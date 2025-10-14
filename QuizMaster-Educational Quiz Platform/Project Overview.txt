@@ -1,0 +1,14 @@
+💡 Project Overview
+
+Goal:
+Create a beautiful, professional-looking static quiz platform prototype with:
+
+Hero/intro section
+
+Interactive-looking quiz cards (hover reveals, styled buttons)
+
+Progress bar (mocked using CSS width variables)
+
+Themed color scheme
+
+Fully responsive design
