@@ -9,7 +9,7 @@ body{font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:#22
 .brand span{color:var(--accent)}
 .nav a{margin-left:1rem;color:#222;text-decoration:none;font-weight:600}
 .hero{padding:4rem 6%;text-align:center}
-.hero h1{font-size:2rem;margin-bottom:.5rem;background:linear-gradient(90deg,#ff7a18,#ffb199);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero h1{font-size:2rem;margin-bottom:.5rem;background:linear-gradient(90deg,#ff7a18,#ffb199);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
 .hero p{color:var(--muted);margin-bottom:1.25rem}
 .cta{display:inline-block;padding:.65rem 1.2rem;border-radius:999px;background:var(--accent);color:#fff;text-decoration:none;font-weight:700;box-shadow:0 6px 20px rgba(255,122,24,.18);transition:transform .25s}
 .cta:hover{transform:translateY(-3px)}
